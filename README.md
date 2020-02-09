@@ -11,8 +11,9 @@ The colors become clearer and the dust is removed
 
 # Installation
 
-Enter the script folder of your resource folder
-Start the ata_removefog resource in .cfg file
+- Enter the script folder of your resource folder
+
+- Start the ata_removefog resource in .cfg file
 
 # Preview
 
