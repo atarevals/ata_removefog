@@ -5,16 +5,12 @@ https://github.com/atarevals
 ]]--
 Citizen.CreateThread(function()
   while true do
-    Citizen.Wait(1)
+    Citizen.Wait(500)
 	SetWeatherTypePersist("CLEAR")
 	SetWeatherTypeNowPersist("CLEAR")
 	SetWeatherTypeNow("CLEAR")
 	SetOverrideWeather("CLEAR")
 	SetTimecycleModifier('CS1_railwayB_tunnel')
-	SetForcePedFootstepsTracks(true)
-	SetWind(1.0)
-	SetWindSpeed(11.99)
-	SetWindDirection(180.00)
 
   end
 end)
